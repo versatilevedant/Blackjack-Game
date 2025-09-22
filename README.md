@@ -1,6 +1,6 @@
 # **Blackjack Game (Python)**
 
-A console-based **Blackjack** game developed in **Python**, where the player competes against the dealer to get a hand value closest to **21** without going over. This classic card game includes card dealing, bet management, and logic to handle outcomes such as busts, wins, ties, and more.
+*A console-based **Blackjack** game developed in **Python**, where the player competes against the dealer to get a hand value closest to **21** without going over. This classic card game includes card dealing, bet management, and logic to handle outcomes such as busts, wins, ties, and more*.
 
 ---
 
