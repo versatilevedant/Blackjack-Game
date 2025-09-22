@@ -38,6 +38,15 @@
 
 ---
 
+### **Demonstration:**
+
+Here is a Demonstartion showing the game in action:
+
+![Screenshot](https://github.com/user-attachments/assets/bb5abda8-cdbc-4c3f-86b9-fe29e21b1ac1)
+
+---
+
+
 ### **Technologies Used:**
 - **Python 3**: The programming language used for the game logic and interactions.
 - **Command-line Interface (CLI)**: The game is played via a terminal/command-line interface with user prompts for input.
